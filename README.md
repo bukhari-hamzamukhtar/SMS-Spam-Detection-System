@@ -1,4 +1,5 @@
-Abstract
+Abstract:
+
 This report presents a detailed exploration of a machine learning project focused on classifying text messages as spam or ham (not spam). The project leverages various Python libraries, including NumPy, pandas, scikit-learn, NLTK, Matplotlib, and Seaborn, to perform data loading, preprocessing, feature extraction, model training, evaluation, and visualization. Two advanced ensemble learning techniques, Voting Classifier and Stacked Generalization, are implemented to enhance model performance.
 1. Introduction
 The goal of this project is to develop an accurate and reliable machine learning model to classify text messages as spam or non-spam. This is crucial for applications in email filtering, SMS services, and other communication platforms to improve user experience and security.
